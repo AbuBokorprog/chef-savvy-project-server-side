@@ -10,18 +10,77 @@
     "recipes": [
       {
         "id": 1,
-        "picture": "https://example.com/recipe1.jpg",
-        "name": "Spicy Chicken Pasta"
+        "name": "Butter Chicken",
+        "picture": "https://example.com/butter-chicken.jpg",
+        "ingredients": [
+          "1 lb boneless chicken thighs, cut into bite-sized pieces",
+          "1 cup plain yogurt",
+          "2 tbsp garam masala",
+          "2 tbsp paprika",
+          "1 tbsp ginger paste",
+          "1 tbsp garlic paste",
+          "1 cup tomato puree",
+          "1 cup heavy cream",
+          "4 tbsp unsalted butter",
+          "Salt and pepper to taste"
+        ],
+        "method": [
+          "Marinate chicken in yogurt, garam masala, paprika, ginger paste, and garlic paste for at least 2 hours.",
+          "Preheat oven to 375°F (190°C).",
+          "Place chicken on a baking sheet and bake for 20-25 minutes, or until fully cooked.",
+          "In a separate pan, melt butter and add tomato puree. Cook for 5-7 minutes, or until sauce has thickened.",
+          "Add heavy cream and continue cooking for another 5-7 minutes.",
+          "Add cooked chicken to the sauce and stir to combine. Season with salt and pepper to taste.",
+          "Serve hot with naan or rice."
+        ],
+        "rating": 4.8
       },
       {
         "id": 2,
-        "picture": "https://example.com/recipe2.jpg",
-        "name": "Grilled Steak with Chimichurri Sauce"
+        "name": "Palak Paneer",
+        "picture": "palak_paneer.jpg",
+        "ingredients": [
+          "250g paneer, cubed",
+          "1 bunch of spinach",
+          "2 green chilies",
+          "1 tsp cumin seeds",
+          "1 onion, chopped",
+          "1 tomato, chopped",
+          "1 tsp ginger paste",
+          "1 tsp garlic paste",
+          "1 tsp garam masala",
+          "1 tsp coriander powder",
+          "1/2 tsp turmeric powder",
+          "1/2 cup cream",
+          "Salt, to taste"
+        ],
+        "method": "Blanch spinach leaves in boiling water for 2-3 minutes. Drain and rinse with cold water. Blend spinach with green chilies to form a smooth puree. Heat oil in a pan and add cumin seeds. When the seeds start to splutter, add onion and sauté until golden brown. Add ginger paste and garlic paste and sauté for a minute. Add chopped tomato and cook until the tomato is soft and mushy. Add garam masala, coriander powder, and turmeric powder and mix well. Add the spinach puree and cook for 3-4 minutes. Add cubed paneer and cook for 2-3 minutes. Add cream and mix well. Cook for another 2-3 minutes. Serve hot with naan or rice.",
+        "rating": 4.8
       },
       {
         "id": 3,
-        "picture": "https://example.com/recipe3.jpg",
-        "name": "Lemon Garlic Shrimp Scampi"
+        "name": "Chana Masala",
+        "picture": "https://example.com/chana-masala.jpg",
+        "ingredients": [
+          "2 cups chickpeas, cooked",
+          "1 onion, chopped",
+          "1 tbsp ginger paste",
+          "1 tbsp garlic paste",
+          "1 tsp cumin powder",
+          "1 tsp coriander powder",
+          "1 tsp turmeric powder",
+          "1 tsp garam masala",
+          "2 tbsp vegetable oil",
+          "Salt to taste"
+        ],
+        "method": [
+          "Heat oil in a pan and add onion. Cook until translucent.",
+          "Add ginger and garlic paste, cumin powder, coriander powder, turmeric powder, and garam masala. Cook for 2-3 minutes.",
+          "Add chickpeas and cook for 5-7 minutes, or until heated through.",
+          "Season with salt to taste.",
+          "Serve hot with naan or rice."
+        ],
+        "rating": 4.2
       }
     ]
   },
@@ -36,18 +95,71 @@
     "recipes": [
       {
         "id": 1,
-        "picture": "https://example.com/recipe4.jpg",
-        "name": "Roasted Butternut Squash Soup"
+        "name": "Palak Paneer",
+        "picture": "palak_paneer.jpg",
+        "ingredients": [
+          "250g paneer, cubed",
+          "1 bunch of spinach",
+          "2 green chilies",
+          "1 tsp cumin seeds",
+          "1 onion, chopped",
+          "1 tomato, chopped",
+          "1 tsp ginger paste",
+          "1 tsp garlic paste",
+          "1 tsp garam masala",
+          "1 tsp coriander powder",
+          "1/2 tsp turmeric powder",
+          "1/2 cup cream",
+          "Salt, to taste"
+        ],
+        "method": "Blanch spinach leaves in boiling water for 2-3 minutes. Drain and rinse with cold water. Blend spinach with green chilies to form a smooth puree. Heat oil in a pan and add cumin seeds. When the seeds start to splutter, add onion and sauté until golden brown. Add ginger paste and garlic paste and sauté for a minute. Add chopped tomato and cook until the tomato is soft and mushy. Add garam masala, coriander powder, and turmeric powder and mix well. Add the spinach puree and cook for 3-4 minutes. Add cubed paneer and cook for 2-3 minutes. Add cream and mix well. Cook for another 2-3 minutes. Serve hot with naan or rice.",
+        "rating": 4.8
       },
       {
         "id": 2,
-        "picture": "https://example.com/recipe5.jpg",
-        "name": "Pan-Seared Salmon with Herb Butter"
+        "name": "Aloo Gobi",
+        "picture": "https://example.com/aloo-gobi.jpg",
+        "ingredients": [
+          "1 cauliflower, cut into florets",
+          "2 potatoes, peeled and cubed",
+          "1 onion, chopped",
+          "1 tbsp ginger paste",
+          "1 tbsp garlic paste",
+          "1 tsp cumin seeds",
+          "1 tsp coriander powder",
+          "1 tsp turmeric powder",
+          "2 tbsp vegetable oil",
+          "Salt to taste"
+        ],
+        "method": [
+          "Heat oil in a large pan or wok on medium-high heat. Add cumin seeds and let them sizzle for a few seconds until fragrant.",
+          "Add onion and sauté for 2-3 minutes until they are soft and translucent.",
+          "Add ginger paste, minced garlic, and green chilies. Cook for 1-2 minutes until fragrant.",
+          "Add coriander powder, garam masala, and turmeric powder. Mix well and cook for 1-2 minutes.",
+          "Add cubed potatoes, cauliflower florets, and salt to taste. Mix well so that the spices coat the vegetables evenly.",
+          "Reduce heat to medium-low and cover the pan with a lid. Cook for 20-25 minutes until the potatoes and cauliflower are cooked through, stirring occasionally.",
+          "Remove the lid and increase heat to medium-high. Cook for another 5-7 minutes until the vegetables are slightly browned and crisp.",
+          "Garnish with fresh coriander leaves and serve hot with naan or rice. Enjoy!"
+        ],
+        "rating": 4.3
       },
       {
         "id": 3,
-        "picture": "https://example.com/recipe6.jpg",
-        "name": "Crispy Pork Belly with Apple Cider Reduction"
+        "name": "Palak Paneer",
+        "picture": "https://www.example.com/palak-paneer.jpg",
+        "ingredients": [
+          "Paneer",
+          "Spinach",
+          "Onion",
+          "Tomatoes",
+          "Ginger",
+          "Garlic",
+          "Spices (Cumin, Coriander, Turmeric, Garam Masala)",
+          "Oil",
+          "Cream"
+        ],
+        "method": "1. Boil spinach for 2-3 minutes and blend to a smooth paste. \n2. Heat oil in a pan and add cumin seeds. \n3. Add chopped onion, ginger, and garlic and saute until golden brown. \n4. Add chopped tomatoes and cook until soft. \n5. Add spinach paste and spices to the pan and mix well. \n6. Add diced paneer and cook for 5 minutes. \n7. Add cream and cook for another 5 minutes. \n8. Serve hot with rice or naan.",
+        "rating": 4.9
       }
     ]
   },
@@ -62,18 +174,45 @@
     "recipes": [
       {
         "id": 1,
-        "picture": "https://example.com/recipe7.jpg",
-        "name": "Rigatoni with Sausage and Fennel"
+        "name": "Vegetable Biryani",
+        "picture": "https://www.example.com/vegetable-biryani.jpg",
+        "ingredients": [
+          "Rice",
+          "Mixed vegetables (peas, carrots, cauliflower, green beans)",
+          "Onion",
+          "Tomatoes",
+          "Spices (Cumin, Coriander, Turmeric, Garam Masala)"
+        ],
+        "method": "1. Rinse rice and soak for 30 minutes. \n2. Cook mixed vegetables in a separate pan. \n3. Saute onion and spices in oil. \n4. Add chopped tomatoes and cook until soft. \n5. Drain rice and add to the pan with onion and spices. \n6. Add cooked vegetables and mix well. \n7. Cover and simmer until rice is cooked. \n8. Serve hot.",
+        "rating": 4.6
       },
       {
         "id": 2,
-        "picture": "https://example.com/recipe8.jpg",
-        "name": "Thai Green Curry with Chicken and Vegetables"
+        "name": "Samosas",
+        "picture": "https://www.example.com/samosas.jpg",
+        "ingredients": [
+          "Potatoes",
+          "Peas",
+          "Onion",
+          "Spices (Cumin, Coriander, Turmeric)",
+          "Dough (Flour, Water, Salt)"
+        ],
+        "method": "1. Boil potatoes, add peas and spices. \n2. Make dough and roll into circles. \n3. Fill dough circles with potato mixture. \n4. Fry samosas until golden brown. \n5. Serve with chutney.",
+        "rating": 4.0
       },
       {
         "id": 3,
-        "picture": "https://example.com/recipe9.jpg",
-        "name": "Mushroom Risotto with Truffle Oil"
+        "name": "Chana Masala",
+        "picture": "https://www.example.com/chana-masala.jpg",
+        "ingredients": [
+          "Chickpeas",
+          "Onion",
+          "Tomatoes",
+          "Spices (Cumin, Coriander, Turmeric, Garam Masala)",
+          "Lemon juice"
+        ],
+        "method": "1. Saute onions and spices in oil. \n2. Add chickpeas and cook for a few minutes. \n3. Add tomatoes and cook until thick. \n4. Add lemon juice and serve.",
+        "rating": 4.4
       }
     ]
   },
@@ -88,12 +227,45 @@
     "recipes": [
       {
         "id": 1,
-        "picture": "https://example.com/recipe10.jpg",
-        "name": "Crispy Baked Chicken Tenders"
+        "name": "Biryani",
+        "picture": "https://www.example.com/biryani.jpg",
+        "ingredients": [
+          "Basmati rice",
+          "Chicken",
+          "Onion",
+          "Spices (Cumin, Coriander, Turmeric, Garam Masala)",
+          "Yogurt"
+        ],
+        "method": "1. Marinate chicken in yogurt and spices for 30 minutes. \n2. Cook rice until half done. \n3. Saute onions and spices, add chicken and cook. \n4. Layer rice and chicken mixture in a pot, and cook until rice is fully done. \n5. Serve with raita or chutney.",
+        "rating": 4.6
       },
       {
         "id": 2,
-        "picture": "https://example.com/"
+        "name": "Dal Makhani",
+        "picture": "https://www.example.com/dal-makhani.jpg",
+        "ingredients": [
+          "Urad dal",
+          "Kidney beans",
+          "Tomatoes",
+          "Cream",
+          "Spices (Garam Masala, Cumin Powder, Coriander Powder)"
+        ],
+        "method": "1. Soak dal and beans overnight. \n2. Boil dal and beans until tender. \n3. Simmer tomatoes and spices in a pan. \n4. Add cooked dal and beans, cook until thick. \n5. Stir in cream, cook for a few minutes. \n6. Serve with rice or naan.",
+        "rating": 4.4
+      },
+      {
+        "id": 3,
+        "name": "Aloo Gobi",
+        "picture": "https://www.example.com/aloo-gobi.jpg",
+        "ingredients": [
+          "Potatoes",
+          "Cauliflower",
+          "Onion",
+          "Spices (Cumin, Coriander, Turmeric, Garam Masala)",
+          "Tomatoes"
+        ],
+        "method": "1. Saute onions and spices in oil. \n2. Add potatoes and cauliflower. \n3. Cook until tender. \n4. Add tomatoes, cook for a few more minutes. \n5. Serve with rice or naan.",
+        "rating": 4.1
       }
     ]
   },
@@ -108,18 +280,45 @@
     "recipes": [
       {
         "id": 1,
-        "picture": "https://example.com/recipe1.jpg",
-        "name": "Spicy Chicken Pasta"
+        "name": "Chicken Tikka",
+        "picture": "https://www.example.com/chicken-tikka.jpg",
+        "ingredients": [
+          "Chicken (boneless)",
+          "Yogurt",
+          "Spices (Cumin, Coriander, Turmeric, Garam Masala)",
+          "Lemon juice",
+          "Garlic"
+        ],
+        "method": "1. Marinate chicken in yogurt, spices, lemon juice, and garlic for 2 hours. \n2. Skewer chicken and grill until cooked. \n3. Serve with chutney or raita.",
+        "rating": 4.7
       },
       {
         "id": 2,
-        "picture": "https://example.com/recipe2.jpg",
-        "name": "Grilled Steak with Chimichurri Sauce"
+        "name": "Mutter Paneer",
+        "picture": "https://www.example.com/mutter-paneer.jpg",
+        "ingredients": [
+          "Paneer",
+          "Peas",
+          "Onion",
+          "Tomatoes",
+          "Spices (Cumin, Coriander, Turmeric, Garam Masala)"
+        ],
+        "method": "1. Saute onion and spices in oil. \n2. Add chopped tomatoes and cook until soft. \n3. Add paneer and peas to the pan, mix well. \n4. Cook for a few more minutes. \n5. Serve with rice or naan.",
+        "rating": 4.3
       },
       {
         "id": 3,
-        "picture": "https://example.com/recipe3.jpg",
-        "name": "Lemon Garlic Shrimp Scampi"
+        "name": "Butter Chicken",
+        "picture": "https://www.example.com/butter-chicken.jpg",
+        "ingredients": [
+          "Chicken breast",
+          "Tomatoes",
+          "Butter",
+          "Cream",
+          "Spices (Cumin, Coriander, Turmeric, Paprika, Garam Masala)"
+        ],
+        "method": "1. Marinate chicken in yogurt and spices for at least 2 hours. \n2. Grill or broil chicken until cooked. \n3. Saute onion and spices in a pan. \n4. Add chopped tomatoes and cook until soft. \n5. Puree tomato mixture and strain through a sieve. \n6. Add strained tomato sauce back to the pan, add butter and cream, and cook until well combined. \n7. Add cooked chicken to the sauce and simmer for a few minutes. \n8. Serve with rice or naan.",
+        "rating": 4.8
       }
     ]
   },
@@ -134,18 +333,46 @@
     "recipes": [
       {
         "id": 1,
-        "picture": "https://example.com/recipe4.jpg",
-        "name": "Roasted Butternut Squash Soup"
+        "name": "Pav Bhaji",
+        "picture": "https://www.example.com/pav-bhaji.jpg",
+        "ingredients": [
+          "Mixed vegetables (potatoes, peas, carrots, cauliflower, bell peppers)",
+          "Onion",
+          "Tomatoes",
+          "Pav buns",
+          "Spices (Cumin, Coriander, Turmeric, Garam Masala)"
+        ],
+        "method": "1. Boil vegetables until tender and mash them with a potato masher. \n2. Saute onion and spices in oil. \n3. Add chopped tomatoes and cook until soft. \n4. Add mashed vegetables to the pan and mix well. \n5. Cook for a few more minutes.",
+        "rating": 4.8
       },
       {
         "id": 2,
-        "picture": "https://example.com/recipe5.jpg",
-        "name": "Pan-Seared Salmon with Herb Butter"
+        "name": "Tandoori Chicken",
+        "picture": "https://www.example.com/tandoori-chicken.jpg",
+        "ingredients": [
+          "Chicken drumsticks",
+          "Yogurt",
+          "Lemon",
+          "Ginger",
+          "Garlic",
+          "Spices (Cumin, Coriander, Turmeric, Paprika, Garam Masala)"
+        ],
+        "method": "1. Mix yogurt, lemon, ginger, garlic, and spices to make the marinade. \n2. Score chicken drumsticks and marinate them in the mixture for at least 2 hours. \n3. Preheat oven to 400 degrees Fahrenheit. \n4. Place chicken on a baking sheet and bake for 20-30 minutes or until cooked. \n5. Serve with rice or naan.",
+        "rating": 4.9
       },
       {
         "id": 3,
-        "picture": "https://example.com/recipe6.jpg",
-        "name": "Crispy Pork Belly with Apple Cider Reduction"
+        "name": "Rasgulla",
+        "picture": "https://www.example.com/rasgulla.jpg",
+        "ingredients": [
+          "Milk",
+          "Lemon juice",
+          "Sugar",
+          "Water",
+          "Cardamom powder"
+        ],
+        "method": "1. Heat milk and add lemon juice to curdle it. \n2. Strain curdled milk in a cheesecloth and squeeze out excess water. \n3. Knead the curdled milk until smooth and make small balls. \n4. Boil sugar and water in a pan and add cardamom powder. \n5. Add the balls of curd",
+        "rating": 4.3
       }
     ]
   },
@@ -160,38 +387,56 @@
     "recipes": [
       {
         "id": 1,
-        "picture": "https://example.com/recipe7.jpg",
-        "name": "Rigatoni with Sausage and Fennel"
+        "name": "Chole Bhature",
+        "picture": "https://www.example.com/chole-bhature.jpg",
+        "ingredients": [
+          "Chickpeas",
+          "Onion",
+          "Tomatoes",
+          "Ginger",
+          "Garlic",
+          "Spices (Cumin, Coriander, Turmeric, Garam Masala)",
+          "Flour",
+          "Yogurt",
+          "Oil"
+        ],
+        "method": "1. Soak chickpeas overnight and boil until soft. \n2. Saute onion, ginger, and garlic in oil. \n3. Add chopped tomatoes and cook until soft. \n4. Add boiled chickpeas and spices to the pan and cook for 10 minutes. \n5. Make a dough with flour, yogurt, and water. \n6. Roll out dough into circles and fry in hot oil. \n7. Serve hot with chole and garnish with onion and green chilies.",
+        "rating": 4.8
       },
       {
         "id": 2,
-        "picture": "https://example.com/recipe8.jpg",
-        "name": "Thai Green Curry with Chicken and Vegetables"
+        "name": "Beetroot Uttapam",
+        "image": "https://example.com/aloo-gobi.jpg",
+        "ingredients": [
+          "2 Cups idli/ dosa batter",
+          "2 small Beetroots",
+          "1 Onion, finely chopped",
+          "1 small Tomato , finely chopped",
+          "1/2 Capsicum, finely chopped",
+          "3 Green Chillies, finely chopped",
+          "Oil for cooking",
+          "Coriander leaves for garnish",
+          "Salt to taste"
+        ],
+        "method": "1. Soak chickpeas overnight and boil until soft. \n2. Saute onion, ginger, and garlic in oil. \n3. Add chopped tomatoes and cook until soft. \n4. Add boiled chickpeas and spices to the pan and cook for 10 minutes. \n5. Make a dough with flour, yogurt, and water. \n6. Roll out dough into circles and fry in hot oil. \n7. Serve hot with chole and garnish with onion and green chilies.",
+        "rating": 4.3
       },
       {
         "id": 3,
-        "picture": "https://example.com/recipe9.jpg",
-        "name": "Mushroom Risotto with Truffle Oil"
-      }
-    ]
-  },
-  {
-    "id": 8,
-    "picture": "https://img.freepik.com/free-photo/mid-shot-chef-holding-plate-with-pasta-making-ok-sign_23-2148794087.jpg?w=900&t=st=1683107085~exp=1683107685~hmac=5e03d5b44e27b103d95a9974a7a29a2cbcad0afb21c44cd1a61f0ca77f246dcc",
-    "name": "Chef Sarah",
-    "experience": 12,
-    "numRecipes": 40,
-    "likes": 800,
-    "description": "Chef Sarah's recipes are all about comfort food with a healthy twist.",
-    "recipes": [
-      {
-        "id": 1,
-        "picture": "https://example.com/recipe10.jpg",
-        "name": "Crispy Baked Chicken Tenders"
-      },
-      {
-        "id": 2,
-        "picture": "https://example.com/"
+        "name": "Chana Masala",
+        "picture": "https://www.example.com/chana-masala.jpg",
+        "ingredients": [
+          "Chickpeas",
+          "Onion",
+          "Tomatoes",
+          "Ginger",
+          "Garlic",
+          "Spices (Cumin, Coriander, Turmeric, Garam Masala)",
+          "Oil",
+          "Cilantro"
+        ],
+        "method": "1. Soak chickpeas overnight and cook until tender. \n2. Heat oil in a pan and add cumin seeds. \n3. Add chopped onion, ginger, and garlic and saute until golden brown. \n4. Add chopped tomatoes and cook until soft. \n5. Add cooked chickpeas and spices to the pan and mix well. \n6. Cover and cook on low heat for 10-15 minutes. \n7. Garnish with chopped cilantro and serve hot with rice or naan.",
+        "rating": 4.7
       }
     ]
   }
