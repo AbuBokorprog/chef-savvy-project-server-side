@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "picture": "https://example.com/chef1.jpg",
+    "picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=900&t=st=1683106784~exp=1683107384~hmac=54b4b4e67bebc584ffa792d4a436e031cae7b9f4b623810f0df81197da910aaa",
     "name": "Chef John",
     "experience": 15,
     "numRecipes": 50,
@@ -27,7 +27,7 @@
   },
   {
     "id": 2,
-    "picture": "https://example.com/chef2.jpg",
+    "picture": "https://img.freepik.com/free-photo/chef-doing-tiny-sign-white-background_1368-2805.jpg?w=740&t=st=1683106838~exp=1683107438~hmac=9d134b94243de00db0f42f38d3372d6dc137c8101952d67725b3936ce00ce883",
     "name": "Chef Emily",
     "experience": 8,
     "numRecipes": 25,
@@ -53,7 +53,7 @@
   },
   {
     "id": 3,
-    "picture": "https://example.com/chef3.jpg",
+    "picture": "https://img.freepik.com/free-photo/female-chef-holding-wooden-spoon-whisk-rolling-pin-white-uniform-looking-cheery_176474-12639.jpg?w=900&t=st=1683106896~exp=1683107496~hmac=eafc3238db8b4a613d92093595413836158bc8da05ae4bfdd9b621e7c04f9742",
     "name": "Chef David",
     "experience": 20,
     "numRecipes": 75,
@@ -79,7 +79,7 @@
   },
   {
     "id": 4,
-    "picture": "https://example.com/chef4.jpg",
+    "picture": "https://img.freepik.com/free-photo/confident-young-handsome-cook-chef-uniform-standing-with-closed-posture-isolated-orange-wall_141793-101136.jpg?w=826&t=st=1683106956~exp=1683107556~hmac=1756ddfbe03266f69828b11cd0530aabd64e9234f3f8bd529e9e113197013dcf",
     "name": "Chef Sarah",
     "experience": 12,
     "numRecipes": 40,
@@ -99,7 +99,7 @@
   },
   {
     "id": 5,
-    "picture": "https://example.com/chef1.jpg",
+    "picture": "https://img.freepik.com/free-photo/young-pleased-afro-american-cook-chef-uniform-crosses-arms-holds-knife-isolated-orange-wall_141793-33300.jpg?w=826&t=st=1683106979~exp=1683107579~hmac=63fab088ca1487e7ee59c7faea6f48abf7d8087814af974f0aeee99034ff9908",
     "name": "Chef John",
     "experience": 15,
     "numRecipes": 50,
@@ -125,7 +125,7 @@
   },
   {
     "id": 6,
-    "picture": "https://example.com/chef2.jpg",
+    "picture": "https://img.freepik.com/free-photo/confident-young-male-cook-wearing-chef-uniform-glasses-crossing-hands-holding-knife_141793-81293.jpg?w=826&t=st=1683107010~exp=1683107610~hmac=62f539a4f92fdc884b8e95425ff277fe3e385a769d0e48433fcfa55617e9c624",
     "name": "Chef Emily",
     "experience": 8,
     "numRecipes": 25,
@@ -151,7 +151,7 @@
   },
   {
     "id": 7,
-    "picture": "https://example.com/chef3.jpg",
+    "picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?size=626&ext=jpg&ga=GA1.2.825737080.1674060681&semt=sph",
     "name": "Chef David",
     "experience": 20,
     "numRecipes": 75,
@@ -177,7 +177,7 @@
   },
   {
     "id": 8,
-    "picture": "https://example.com/chef4.jpg",
+    "picture": "https://img.freepik.com/free-photo/mid-shot-chef-holding-plate-with-pasta-making-ok-sign_23-2148794087.jpg?w=900&t=st=1683107085~exp=1683107685~hmac=5e03d5b44e27b103d95a9974a7a29a2cbcad0afb21c44cd1a61f0ca77f246dcc",
     "name": "Chef Sarah",
     "experience": 12,
     "numRecipes": 40,
