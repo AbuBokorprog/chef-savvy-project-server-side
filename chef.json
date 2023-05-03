@@ -1,0 +1,198 @@
+[
+  {
+    "id": 1,
+    "picture": "https://example.com/chef1.jpg",
+    "name": "Chef John",
+    "experience": 15,
+    "numRecipes": 50,
+    "likes": 1000,
+    "description": "Chef John's recipes are all about bold flavors and creative twists on classic dishes.",
+    "recipes": [
+      {
+        "id": 1,
+        "picture": "https://example.com/recipe1.jpg",
+        "name": "Spicy Chicken Pasta"
+      },
+      {
+        "id": 2,
+        "picture": "https://example.com/recipe2.jpg",
+        "name": "Grilled Steak with Chimichurri Sauce"
+      },
+      {
+        "id": 3,
+        "picture": "https://example.com/recipe3.jpg",
+        "name": "Lemon Garlic Shrimp Scampi"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "picture": "https://example.com/chef2.jpg",
+    "name": "Chef Emily",
+    "experience": 8,
+    "numRecipes": 25,
+    "likes": 500,
+    "description": "Chef Emily's recipes focus on fresh, seasonal ingredients and simple yet elegant presentations.",
+    "recipes": [
+      {
+        "id": 1,
+        "picture": "https://example.com/recipe4.jpg",
+        "name": "Roasted Butternut Squash Soup"
+      },
+      {
+        "id": 2,
+        "picture": "https://example.com/recipe5.jpg",
+        "name": "Pan-Seared Salmon with Herb Butter"
+      },
+      {
+        "id": 3,
+        "picture": "https://example.com/recipe6.jpg",
+        "name": "Crispy Pork Belly with Apple Cider Reduction"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "picture": "https://example.com/chef3.jpg",
+    "name": "Chef David",
+    "experience": 20,
+    "numRecipes": 75,
+    "likes": 1500,
+    "description": "Chef David's recipes are a fusion of his Italian heritage and his travels around the world.",
+    "recipes": [
+      {
+        "id": 1,
+        "picture": "https://example.com/recipe7.jpg",
+        "name": "Rigatoni with Sausage and Fennel"
+      },
+      {
+        "id": 2,
+        "picture": "https://example.com/recipe8.jpg",
+        "name": "Thai Green Curry with Chicken and Vegetables"
+      },
+      {
+        "id": 3,
+        "picture": "https://example.com/recipe9.jpg",
+        "name": "Mushroom Risotto with Truffle Oil"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "picture": "https://example.com/chef4.jpg",
+    "name": "Chef Sarah",
+    "experience": 12,
+    "numRecipes": 40,
+    "likes": 800,
+    "description": "Chef Sarah's recipes are all about comfort food with a healthy twist.",
+    "recipes": [
+      {
+        "id": 1,
+        "picture": "https://example.com/recipe10.jpg",
+        "name": "Crispy Baked Chicken Tenders"
+      },
+      {
+        "id": 2,
+        "picture": "https://example.com/"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "picture": "https://example.com/chef1.jpg",
+    "name": "Chef John",
+    "experience": 15,
+    "numRecipes": 50,
+    "likes": 1000,
+    "description": "Chef John's recipes are all about bold flavors and creative twists on classic dishes.",
+    "recipes": [
+      {
+        "id": 1,
+        "picture": "https://example.com/recipe1.jpg",
+        "name": "Spicy Chicken Pasta"
+      },
+      {
+        "id": 2,
+        "picture": "https://example.com/recipe2.jpg",
+        "name": "Grilled Steak with Chimichurri Sauce"
+      },
+      {
+        "id": 3,
+        "picture": "https://example.com/recipe3.jpg",
+        "name": "Lemon Garlic Shrimp Scampi"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "picture": "https://example.com/chef2.jpg",
+    "name": "Chef Emily",
+    "experience": 8,
+    "numRecipes": 25,
+    "likes": 500,
+    "description": "Chef Emily's recipes focus on fresh, seasonal ingredients and simple yet elegant presentations.",
+    "recipes": [
+      {
+        "id": 1,
+        "picture": "https://example.com/recipe4.jpg",
+        "name": "Roasted Butternut Squash Soup"
+      },
+      {
+        "id": 2,
+        "picture": "https://example.com/recipe5.jpg",
+        "name": "Pan-Seared Salmon with Herb Butter"
+      },
+      {
+        "id": 3,
+        "picture": "https://example.com/recipe6.jpg",
+        "name": "Crispy Pork Belly with Apple Cider Reduction"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "picture": "https://example.com/chef3.jpg",
+    "name": "Chef David",
+    "experience": 20,
+    "numRecipes": 75,
+    "likes": 1500,
+    "description": "Chef David's recipes are a fusion of his Italian heritage and his travels around the world.",
+    "recipes": [
+      {
+        "id": 1,
+        "picture": "https://example.com/recipe7.jpg",
+        "name": "Rigatoni with Sausage and Fennel"
+      },
+      {
+        "id": 2,
+        "picture": "https://example.com/recipe8.jpg",
+        "name": "Thai Green Curry with Chicken and Vegetables"
+      },
+      {
+        "id": 3,
+        "picture": "https://example.com/recipe9.jpg",
+        "name": "Mushroom Risotto with Truffle Oil"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "picture": "https://example.com/chef4.jpg",
+    "name": "Chef Sarah",
+    "experience": 12,
+    "numRecipes": 40,
+    "likes": 800,
+    "description": "Chef Sarah's recipes are all about comfort food with a healthy twist.",
+    "recipes": [
+      {
+        "id": 1,
+        "picture": "https://example.com/recipe10.jpg",
+        "name": "Crispy Baked Chicken Tenders"
+      },
+      {
+        "id": 2,
+        "picture": "https://example.com/"
+      }
+    ]
+  }
+]
