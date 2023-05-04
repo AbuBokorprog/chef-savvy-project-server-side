@@ -1,7 +1,7 @@
 const express = require("express");
 const cors = require("cors");
 const app = express();
-const port = 5000;
+const port = process.env.PORT || 5000;
 
 const chef = require("./chef.json");
 
@@ -13,6 +13,12 @@ app.get("/", (req, res) => {
 
 app.get("/chef", (req, res) => {
   res.send(chef);
+});
+
+app.get("/chef/:id", (req, res) => {
+  const id = req.params.id;
+  const selectedNews = chef.find((n) => n.id === parseInt(id));
+  res.send(selectedNews);
 });
 
 app.listen(port, () => {

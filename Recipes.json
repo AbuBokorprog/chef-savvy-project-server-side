@@ -1,0 +1,356 @@
+[
+  {
+    "id": 1,
+    "name": "Butter Chicken",
+    "picture": "https://img.freepik.com/free-photo/massaman-curry-frying-pan-with-spices-cement-floor_1150-20777.jpg?size=626&ext=jpg&ga=GA1.2.825737080.1674060681&semt=ais",
+    "ingredients": [
+      "1) 1 lb boneless chicken thighs, cut into bite-sized pieces.",
+      "2) 1 cup plain yogurt.",
+      "3) 2 tbsp garam masala.",
+      "4) 2 tbsp paprika.",
+      "5) 1 tbsp ginger paste.",
+      "6) 1 tbsp garlic paste.",
+      "7) 1 cup tomato puree.",
+      "8) 1 cup heavy cream.",
+      "9) 4 tbsp unsalted butter.",
+      "10) Salt and pepper to taste."
+    ],
+    "method": [
+      "Marinate chicken in yogurt, garam masala, paprika, ginger paste, and garlic paste for at least 2 hours.",
+      "Preheat oven to 375°F (190°C).",
+      "Place chicken on a baking sheet and bake for 20-25 minutes, or until fully cooked.",
+      "In a separate pan, melt butter and add tomato puree. Cook for 5-7 minutes, or until sauce has thickened.",
+      "Add heavy cream and continue cooking for another 5-7 minutes.",
+      "Add cooked chicken to the sauce and stir to combine. Season with salt and pepper to taste.",
+      "Serve hot with naan or rice."
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": 2,
+    "name": "Palak Paneer",
+    "picture": "https://img.freepik.com/free-photo/high-angle-chicken-meal_23-2148825122.jpg?size=626&ext=jpg&ga=GA1.1.825737080.1674060681&semt=ais",
+    "ingredients": [
+      "250g paneer, cubed",
+      "1 bunch of spinach",
+      "2 green chilies",
+      "1 tsp cumin seeds",
+      "1 onion, chopped",
+      "1 tomato, chopped",
+      "1 tsp ginger paste",
+      "1 tsp garlic paste",
+      "1 tsp garam masala",
+      "1 tsp coriander powder",
+      "1/2 tsp turmeric powder",
+      "1/2 cup cream",
+      "Salt, to taste"
+    ],
+    "method": "Blanch spinach leaves in boiling water for 2-3 minutes. Drain and rinse with cold water. Blend spinach with green chilies to form a smooth puree. Heat oil in a pan and add cumin seeds. When the seeds start to splutter, add onion and sauté until golden brown. Add ginger paste and garlic paste and sauté for a minute. Add chopped tomato and cook until the tomato is soft and mushy. Add garam masala, coriander powder, and turmeric powder and mix well. Add the spinach puree and cook for 3-4 minutes. Add cubed paneer and cook for 2-3 minutes. Add cream and mix well. Cook for another 2-3 minutes. Serve hot with naan or rice.",
+    "rating": 4.8
+  },
+  {
+    "id": 3,
+    "name": "Chana Masala",
+    "picture": "https://img.freepik.com/free-photo/indian-dhal-spicy-curry-bowl-spices-herbs-rustic-black-wooden-table_2829-18712.jpg?size=626&ext=jpg&ga=GA1.2.825737080.1674060681&semt=ais",
+    "ingredients": [
+      "2 cups chickpeas, cooked",
+      "1 onion, chopped",
+      "1 tbsp ginger paste",
+      "1 tbsp garlic paste",
+      "1 tsp cumin powder",
+      "1 tsp coriander powder",
+      "1 tsp turmeric powder",
+      "1 tsp garam masala",
+      "2 tbsp vegetable oil",
+      "Salt to taste"
+    ],
+    "method": [
+      "Heat oil in a pan and add onion. Cook until translucent.",
+      "Add ginger and garlic paste, cumin powder, coriander powder, turmeric powder, and garam masala. Cook for 2-3 minutes.",
+      "Add chickpeas and cook for 5-7 minutes, or until heated through.",
+      "Season with salt to taste.",
+      "Serve hot with naan or rice."
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": 4,
+    "name": "Palak Paneer",
+    "picture": "https://img.freepik.com/free-photo/flat-lay-pakistani-food-arrangement_23-2148825110.jpg?size=626&ext=jpg&ga=GA1.1.825737080.1674060681&semt=ais",
+    "ingredients": [
+      "250g paneer, cubed",
+      "1 bunch of spinach",
+      "2 green chilies",
+      "1 tsp cumin seeds",
+      "1 onion, chopped",
+      "1 tomato, chopped",
+      "1 tsp ginger paste",
+      "1 tsp garlic paste",
+      "1 tsp garam masala",
+      "1 tsp coriander powder",
+      "1/2 tsp turmeric powder",
+      "1/2 cup cream",
+      "Salt, to taste"
+    ],
+    "method": "Blanch spinach leaves in boiling water for 2-3 minutes. Drain and rinse with cold water. Blend spinach with green chilies to form a smooth puree. Heat oil in a pan and add cumin seeds. When the seeds start to splutter, add onion and sauté until golden brown. Add ginger paste and garlic paste and sauté for a minute. Add chopped tomato and cook until the tomato is soft and mushy. Add garam masala, coriander powder, and turmeric powder and mix well. Add the spinach puree and cook for 3-4 minutes. Add cubed paneer and cook for 2-3 minutes. Add cream and mix well. Cook for another 2-3 minutes. Serve hot with naan or rice.",
+    "rating": 4.8
+  },
+  {
+    "id": 5,
+    "name": "Aloo Gobi",
+    "picture": "https://niksharmacooks.com/wp-content/uploads/2022/09/Aloo-GobiDSC_5223-1024x1536.jpg",
+    "ingredients": [
+      "1 cauliflower, cut into florets",
+      "2 potatoes, peeled and cubed",
+      "1 onion, chopped",
+      "1 tbsp ginger paste",
+      "1 tbsp garlic paste",
+      "1 tsp cumin seeds",
+      "1 tsp coriander powder",
+      "1 tsp turmeric powder",
+      "2 tbsp vegetable oil",
+      "Salt to taste"
+    ],
+    "method": [
+      "Heat oil in a large pan or wok on medium-high heat. Add cumin seeds and let them sizzle for a few seconds until fragrant.",
+      "Add onion and sauté for 2-3 minutes until they are soft and translucent.",
+      "Add ginger paste, minced garlic, and green chilies. Cook for 1-2 minutes until fragrant.",
+      "Add coriander powder, garam masala, and turmeric powder. Mix well and cook for 1-2 minutes.",
+      "Add cubed potatoes, cauliflower florets, and salt to taste. Mix well so that the spices coat the vegetables evenly.",
+      "Reduce heat to medium-low and cover the pan with a lid. Cook for 20-25 minutes until the potatoes and cauliflower are cooked through, stirring occasionally.",
+      "Remove the lid and increase heat to medium-high. Cook for another 5-7 minutes until the vegetables are slightly browned and crisp.",
+      "Garnish with fresh coriander leaves and serve hot with naan or rice. Enjoy!"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": 6,
+    "name": "Vegetable Biryani",
+    "picture": "https://img.freepik.com/premium-photo/tawa-pulao-pulav-pilaf-pilau-is-indian-street-food-made-using-basmati-rice-vegetables-spices-selective-focus_466689-70903.jpg?size=626&ext=jpg&ga=GA1.1.825737080.1674060681&semt=ais",
+    "ingredients": [
+      "Rice",
+      "Mixed vegetables (peas, carrots, cauliflower, green beans)",
+      "Onion",
+      "Tomatoes",
+      "Spices (Cumin, Coriander, Turmeric, Garam Masala)"
+    ],
+    "method": "1. Rinse rice and soak for 30 minutes. \n2. Cook mixed vegetables in a separate pan. \n3. Saute onion and spices in oil. \n4. Add chopped tomatoes and cook until soft. \n5. Drain rice and add to the pan with onion and spices. \n6. Add cooked vegetables and mix well. \n7. Cover and simmer until rice is cooked. \n8. Serve hot.",
+    "rating": 4.6
+  },
+  {
+    "id": 7,
+    "name": "Vegetable Biryani",
+    "picture": "https://img.freepik.com/premium-photo/tawa-pulao-pulav-pilaf-pilau-is-indian-street-food-made-using-basmati-rice-vegetables-spices-selective-focus_466689-70903.jpg?size=626&ext=jpg&ga=GA1.1.825737080.1674060681&semt=ais",
+    "ingredients": [
+      "Rice",
+      "Mixed vegetables (peas, carrots, cauliflower, green beans)",
+      "Onion",
+      "Tomatoes",
+      "Spices (Cumin, Coriander, Turmeric, Garam Masala)"
+    ],
+    "method": "1. Rinse rice and soak for 30 minutes. \n2. Cook mixed vegetables in a separate pan. \n3. Saute onion and spices in oil. \n4. Add chopped tomatoes and cook until soft. \n5. Drain rice and add to the pan with onion and spices. \n6. Add cooked vegetables and mix well. \n7. Cover and simmer until rice is cooked. \n8. Serve hot.",
+    "rating": 4.6
+  },
+  {
+    "id": 8,
+    "name": "Samosas",
+    "picture": "https://img.freepik.com/premium-photo/veg-samosa-is-indian-popular-snack-junk-food-served-with-fried-green-chilly-onion-chutney-ketchup_466689-13449.jpg?size=626&ext=jpg&ga=GA1.1.825737080.1674060681&semt=sph",
+    "ingredients": [
+      "Potatoes",
+      "Peas",
+      "Onion",
+      "Spices (Cumin, Coriander, Turmeric)",
+      "Dough (Flour, Water, Salt)"
+    ],
+    "method": "1. Boil potatoes, add peas and spices. \n2. Make dough and roll into circles. \n3. Fill dough circles with potato mixture. \n4. Fry samosas until golden brown. \n5. Serve with chutney.",
+    "rating": 4.0
+  },
+  {
+    "id": 9,
+    "name": "Chana Masala",
+    "picture": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/08/chana-masala-recipe.jpg",
+    "ingredients": [
+      "Chickpeas",
+      "Onion",
+      "Tomatoes",
+      "Spices (Cumin, Coriander, Turmeric, Garam Masala)",
+      "Lemon juice"
+    ],
+    "method": "1. Saute onions and spices in oil. \n2. Add chickpeas and cook for a few minutes. \n3. Add tomatoes and cook until thick. \n4. Add lemon juice and serve.",
+    "rating": 4.4
+  },
+  {
+    "id": 10,
+    "name": "Biryani",
+    "picture": "https://img.freepik.com/premium-photo/mutton-biryani-food-photography_162831-2.jpg?size=626&ext=jpg&ga=GA1.1.825737080.1674060681&semt=sph",
+    "ingredients": [
+      "Basmati rice",
+      "Chicken",
+      "Onion",
+      "Spices (Cumin, Coriander, Turmeric, Garam Masala)",
+      "Yogurt"
+    ],
+    "method": "1. Marinate chicken in yogurt and spices for 30 minutes. \n2. Cook rice until half done. \n3. Saute onions and spices, add chicken and cook. \n4. Layer rice and chicken mixture in a pot, and cook until rice is fully done. \n5. Serve with raita or chutney.",
+    "rating": 4.6
+  },
+  {
+    "id": 11,
+    "name": "Dal Makhani",
+    "picture": "https://www.whiskaffair.com/wp-content/uploads/2020/10/Dal-Makhani-2-3.jpg",
+    "ingredients": [
+      "Urad dal",
+      "Kidney beans",
+      "Tomatoes",
+      "Cream",
+      "Spices (Garam Masala, Cumin Powder, Coriander Powder)"
+    ],
+    "method": "1. Soak dal and beans overnight. \n2. Boil dal and beans until tender. \n3. Simmer tomatoes and spices in a pan. \n4. Add cooked dal and beans, cook until thick. \n5. Stir in cream, cook for a few minutes. \n6. Serve with rice or naan.",
+    "rating": 4.4
+  },
+  {
+    "id": 12,
+    "name": "Aloo Gobi",
+    "picture": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxQTEhUTEhMVFRUXGRcaGBgXFxgdGhsbGxoYHhoaIB0gHSggGBolGyAYITEhJSkrLi8uGB8zODMtNygtLisBCgoKDg0OGxAQGi0mICUtLy4tMi8tKzAuNS8zKzUtLSstLy01KysvLi0xLS8tLTAtLystLy0rLS8tLS0tLS0tL//AABEIARMAtwMBIgACEQEDEQH/xAAcAAAABwEBAAAAAAAAAAAAAAAAAQIDBAUGBwj/xABAEAACAQMCBAQDBQcEAQMFAQABAhEAAyESMQQFQVEGEyJhMnGBQpGhsfAHFCNSwdHhM2JygvFTkqIkNEODwhX/xAAaAQACAwEBAAAAAAAAAAAAAAAABQECBAMG/8QAMREAAQQABAMGBgIDAQAAAAAAAQACAxEEEiExQVFhBRMicbHwMpGhwdHhFIEjQvEV/9oADAMBAAIRAxEAPwDh1ChQFShHR0KOrIQre+COZ6lNpicYHfGQfn/asFVlyTijbuagcYn7wJ+hNZsXF3kRA34LpC/K611XxFyz964V0j+IMr/zXYj/AJDH/auNkV3HlV/XbDjcRP67frpXO/HnJhZ4vV8Nq965AmD9sAdTMH/tSzsrE+Iwu33H3WrFR6B4WSinEEHMj5bz0/GpvD8abaPbVbZ1wGaCTA+yDIEdTioirNPUvtIO9KC0oLToShCaAo9NPW1GZ7Y9/wBb/Sja3ABzmdxj2g9aFCa0URt06tKihCjMKBWnSlEFoUpkClKKVppYWhCauoNR05HQ9aTop0JS/KxPf+s/TpQhMMSd6FOOhXcEHqCKFCLVfQoUKorJQo6SKWBVgoRCnrZKmYBkHfbqP18qQvepBRNCkOS5J1JpwANjqn1T26VKF0TwBzXUmljlDB9x+oP31a+OuBW9w5QfGp1J7kdB/wAlkfOO1c58Mcd5N9CfhYhW+ux/XeuycNytGCMTq0EGfY7H5T/WvNYuB2HxQkbtv+k1ge2SLK7yXBwtKCVpfHfJP3XjHVRFu5/Et9obdf8Aq0j5aaoktEgkAwNz0Hb8a9Ixwe0OHFKXDKaKYC0+Eo0t4BkGZwDJEdwNqdHYBp/4t/bNTYUapkLFGSTEmY2k4A7Dt/mnWtn+Vj/1b+229DSQCWBHuQR9c0WEUUhlmMDHalID0FTbeg2xAOrVlp9OmNo7zTdxfb5VKFDa3SCKkOh7Hvjt+gfupGqf0BQhNaaEe9PfoU2yf1oQkiNvv/t+u9BWz+h9KQx7UlG/OoUp5m7daFJkRGnM7kn7o2oVKFVUdAUK5qyMUpaSBS0Oc7VYKE4FxPvt+vpSrQ+lIVqdU/5/zUoS0Sa63+zvnfm2lVjLL6G+R2Pv8vc1yM/ePlj/AD9fuq48J8y/d7659LwrfXY/fisONYJI9NwtGHJY7XZdQ/aZyfzeD81RqfhiW9zbPxCemIP/AOs964vdvE/ZC/Qk/eZNejOW3xdtScgiHHcHBnv/AOa4F4p5SeE4q7YMwrShPVGyp98YPuDWXs+fOzJyXbER061XajES0dpMU3cUdhVivLHNnzRLZ+EK0hYJ1n/biJ296rbj0wBs6FcCK3TBp+1xdxfhd1+TEf1pgintbvC7xtV1zU5OYv8AaIb/AJIpP/ugMPvp+1zJcBgVA/lOofUN6v8A5UL3Kv4K3FwY9QMzPy6DaqctXNjg74SruYW/Er9bWvNtg/fTIP8A7SA0fSKjtbqpS5BkEgjYjerKxzacXhrH80+sfXZh7H767B3Nci3kniY/v1+naldM/wBJ/KYpVyzK67ba0GJ2I9mH2T+FJR4OwODvEdgc7xv91XtVUW8oB3namT91OhTO/wCNHbQAiRIBEjaR1E9O00ISk+WaFLu6ZJUQOg1THtMCfnR1KhUooCl216nb8PrGaXeAXacgEzuO4rmrpmlAUgmnrCSZMhRvH5D3otCNLfXp+fsKkpdCqYBDSNJzgd/djjPYH6R3uTtgdAOlFqO3Tt0qjtVcaJ1ZPX9f3p7ysGBnr7VGVorS8k8NcRxIXy1hTMl/Sojt1fGcD61wle1gzONBdGNLjQC3n7N+e+YgQmWHpPuf6Tj7/ao37Y+Sa7VvikGbfouH/Y2UJ+TSP+xqpbkVzld21ea4Llq4QjwCukkY6nG4n3rpdywnFcO9p8q6EE+zDDfkfoaQPxLMPO2ZhtjuPqFuyGSPK7cLzjbYg4JHyMfrr99JIrpb+ErVuyyvbQvGjUWafM+EECTEtn61D43wLaFrzEuMRAIaQVyxAn052MwcRTdvaMBPHelw/iScFzwir3wjy1799bS4Dj1E/wAoI1R79MVA5bwwuXBq+BYZ4OdOoAxg5z2rW8pvXeGvvw6wH0sqXNRbywV1BMgDUSAT8/pWmdxyEN3WRr2tdbitS/g2ygNoFlByVDfIT1I6Vk+N8Mh2NqySyr9o6fTn6Yzn/FS7fiW6B5HEuHRmKpdIKujLuTCyQCfnI7Voz+7uj2uHctca2q3AhiVOJGrALAdPbvlHmxGHPicTfGtPM/tMIjHM21yzmnJ2s6SSGVgCCOoIkGN4jM1VzW+53wPElbhugqzgSqqCEAxBKzpUgbTsc+2R/cSpUETqkQNxH5nancE2ZgJIJ6LC5viIAqlH4TimttqRoO3sR1BGxHsau0dby+iVIBLWwcdJZe69SNxHUZqiu2o+ckEdRQs3SjAgkEGQRgg9xWgHiFQt4FWJX5Yk/Pb9fU0S4yJFTrbC8pdQA6ibiDAI/wDUUdM/EvTcY2aKkHt0/XtXQG1zIpIkkZicZPtPb8/ahTpXTH6/WPzoVZQqe2SkzAwVO0+ofOozGc09ffYTMCNgP1G1R65q6ctWyxAFPXmGy/CNvf3+tC2dK7ZYfh+s0gVVSk1O4PgGuKSu+pVA7z1npH96h6Mx12itny3j7fC2tJsP55MOCdKgqPefVsTgGucpIbpuoLqIVh4d8JohD3DrbYiPSp7R/f2roPBXbdtZYgRtkD/xWP4PxVacAj/srEAgzsRWe5/4ja4wCzGSZIESpHXfBNebkw2IxclSaJw6SOGPw0uieJuYWrlkIQrE6WExAAPxfr3pPgfj/QbZM+VlTvNozHz0kEfT3rmPBc3YOPPDNaadIGOkDaSAMY29s1svCHFE2RxSqdVtmkAzNrOtIgeoCG6yU96rP2f3OHLN9dPP3oogxLZToNaWw55wij1wDMECPtqRH1wPuqJzkrotW1b+FaglFMOMmGz01bETJqy422LthltsJgNbbOIyh7kYE9wDWP4rl3Eslot5Ju6TbWNTMfSSQNRCxOTqFL8GM2jnVXv3yXeUlosCyFjn5ez8SP3e0beotq3gBiPtRptgpkGep9hV9d8PIrwztLkt5ky2sqMM4MaQZY6QdlMxM6bwupPCo/EMyMdUqyKsQY+EAHIG/vWe5zcY6Ldp0Z3ZtSomlSoGdUOWZ4DkLMZ2kV6CPF5yWD/XQ7+qSS4WTMC7QE7+aq+XeGb19WtMy6wxYOTglguoKYliHUGYg7iZkwlt8bwrMih59JZ7cGU3gArlh7fKuncIqCDbB1GQT6sjEAiMH51K4vw1buqoZmUgEShECd4HU43pce1qeRI0ZTwpNxgmRimkjquccVxNq88JcuhDq1YlxpOSSFEBsAdszE5suD8OSQoi2AJYTqukHAl/sSM43HaoFvlz2uOu8OB5im0fLBAAcBgxIjEnJPvW34PmdtmFtF8txvbcFGA7jEN95rti5nsaO62q/wBrnhYGsaQ7eys9xnhVANQUE9z2+fXFYPxNyc2/UBtvXc2sHQAW1GMtgT/mudeKiXuNaFogHGppAOCcGIiAf0a49m42R0lE3XorYlrctVuuacLxLIwZTDKZBrQFw6reQAITpKx8LjJU9wR6geokfZNZ7i7Ghivbb5VM5LxwtuQ5PlvCvHQTIYe6nPuJHWvVtPEJSRwKtoBmd9xEZM5nOBH5DvQpy9YIYgxqBIPUH3B6g7g9RFCuy5LJTT3DWtTAHbc+wGT+FM1MsDTbLdWOkfIQW/8A5rkrhKueokxv+Ht9wikWbBZgB9fkMk+1A3YEU7wFlrrhLfxNIGfb+uapdAkrqG2QFN5FbW5dFu4lx0YgAITvOJ7/AGoG8kVecTYV/L0kkM2LLQWjBkZMYI7GQdxtoeB8MMhu3LZNsQpdApDQEIBQ6lEnJhlMH5VnOM4p7FvRZPqY+tiJuDSTic+nMn6dhK/+UyZ1MOv697KJcO+NwLtr04p3mvAvqF9LS6bZ0uVYZJ+7Uyj9Yqh4nlbOPMRbjKSygFQCGENkfZTSZn+xrTcELj8IthgbTkhlLGderUQyj4jqOCFHbqAKi/vKIPJuK9u41z0skEEBsDSVl8zGRE95q8Ti0UOCzyPcXk0qK6y24NtmIBHxL8wTB9wPbftWr8C8zPDIQcZ1EsQVCzGw7z3qm53xRD2CiliNIgxltiu22SIIiSxAzU/mXh+5btLeQsVnzHQRC5O2TgZEe2Capisj2BjjWZb8ASCXVYpdF8Mccs3LSyFttCiD8DAMoEgTp1afkKqPHCcRae3fsu2m38KADSZnWGPSRAFZDw54gf8AfQ+slXCrDnbAAzOwMj5H2rf+I+aWktaLhB8z0oMydQI0z0Exnt8qRPwzsPimkC8w1HqmZIfCTdVx8tlB5VzW3x1u2gwTDFd/LUGIMiMwQMZFQOM8JsH82yjlFICowV0EtvgfAASYIwZp7w4FtNaUyxTWo8oHUS0MdQ2In1bY07ZNaTi+LAU3betkDOkTOrQQCSB3np/KJ3NajE6IF0HyKVNx/fENeAR71V3YGlQpAAAGR2+m1Sy87xHf8qoLvGOiC4oVlKiQWMKep+QG/aKp+H51xocWn8szkOEJOnsMgdhnuD8kDMJJJZBHzTSaRrG5jsi/aDyq6bnDXrBCPbZgHn+b54znes3xVjiLrKL9+0oGSwX1KBEkY3Ak74rpdngwQGYlz3NZ7xTwdm6RKy9pSdzA1RuuzTGx6TW3B4yi2IjaxdCx8+qktJBLd/os6OJuW2NpOJvXcKy/bZgZkLjMCM53B+Q5jym/csl7l17esA2lYKzNq2BAEg5A3kQSewveVcsFzy2N5tJZ9JBAOgJOkaY9WD0GFaCZpFnmD3rhVmSQ1xFBXI8skazP+nhZCy065puIyGZmjxb8Pwlj8WBNTvh2/ei5lznk5t6lYfxFzMYZT1Ee8j7qzJEGuieITquLr9Qc6Q0kiFE/FgFsjb2rE824XQ7YxPSmmElLm07dWxEY+Juyt+X3vNsjPqtwjTsV3tn6AMv/AFShVb4f4lUuxc/02BVx3HxD/wCQWhW6wsdKucDcfUdv8VJuGAq9gNztMk/mPuFRbaSQOpIH31I44fxHjYMQPkDA/CKgoCYDVZ+Ho/eEB1ZkYMGSrCZGRmNqgenTtmTn2AED75o7OpCr5GcEb43iqOFtI5q7XZXAldd5Hzu3Zsk3b6XSwGjVhoyVXEyoJMHETHSspzXmZu8SW0ldCEOFEEqBqILSREAdeu9VvKbiagqBm/0zlhGCxjOxBj7jW9tcst3XdktqzFMzALSDkgfajXnPTNInNjwr3OIJvyCbd2+eIkEDlv6q047kXm2OHNkeqzI9Ma9ODAkZj4oPxY6xVNzHw2122GunTeDMykhZCiCswJB3MZzON61l/m3kW/PNq4xaNOt9KjEekTIMDYL1H0c51zAW7K3L8aiVLakLIgIgKIgsQ2nBaMkmKWR4jENpo52OfvVcnxxseXEcK6LHct4fiHuDSguWrZ1TcIUFwPsuxk5jeSPwN7xPJ3uh7YUWrNxRqBzpY/FpIMtMCSYGevWZxHii0q29LAy2lmZSIJ/295gAT9aD378M9niEYdEuWNIaBJ9QMz06ZmrOdiJAH0G1oLJ9/wB0uUbmRuptm+Wy5v4h5X5PMLOVltPpUEBQBlsHvP0q98V8G965YRFL6DrdQNgsagG6EjH1qT4ii9xfCIbejifWZDSgSMtvsROCdxHU1s7HCItvTPTJ6k95+c/fVp8Y6MROOrgD9xa3sa3I9p2J+yxFyydNi55J4ckXA5Q+oKcBSIk+jqfbAkw34m4jibLDy3Yhll3VFAJjTrkAhGYHJxMD2Faa1wQa/qdyIXSqqxBfJJY/lA7VavwysukW9SnoQINUk7SyvBOo5cPqsjMI0sLcuXkb1XHfEjPdRQuq0NKlrZLEMwxqEkn4Y9M5rUeDeatcsW0ddLI3ls5bTkgaIJ3Yjp1qV4s5SVa2LXDltZ0soIChVUkHYx1/D2p/g/CbLpJ0iPiCFtJxvBx2xnatT8ZC6AZtOI2u9vdrn3E+bIdQaBPRaHmPH+XbPqiBWL4LmXmLfcNqIYvCnB9MaY9gqmRI/iCrvnPAXeJtvZtAyhBzESMjSThhtvH31juH8LXkvqvnC3cKksIb4VK+w1CdMxjHWs2BiiDHFzhm+2/1W8l7XZQNFqeWcan7k1tbXl3bSgN64bWNY1Bv+RI3yG+cN8Fxl8XdVzhgTI9QtqdYklWbIhsj2BAPYBHC8jdbhNzTckBhcVAIYYYSvSACDjrWv4a0qLk7DJPT+1dMT2j3ZGTVZh2azUuJ6LlXi7nZvcQFuqLYtxpQAACDIJOc6TvPbAqm8WLbUwqn1ZB6Z9+orWftK5KrNbuj06yq6tOIOc/WPv8Aes5znwteVBrdWCDECMdt4/8ANNMNiI5AyQuom9OqrJG5rSwDyWO0kUdLdIleoNFTe0vpPcoWb9of71/MU1c77Tn76kci/wDuLX/MUh4NtSd5K47AA598gfIVJKq0KNppb3SVVeizH13oHFSeAv6G/wBMOSIgzjYkj6D7poJ0ukUCdVYco4ooysbZI0FQFIGptlJJ6g5+ldQ5Hwl3h7huNFwOvwBlJDoNlkwyxq/RMc7sWRda0EJ0sWOn+WGA3++uncFft2YSF8xVGTMmdwPmeg7ivPdpyE0GjU3Y99U5wujSCdP0sLxvO7rcan74zLaVwQiiAAMiSdwDE/LpXSuI58Li5t2zaOzswg+wjCk43mYqr5obF615l4W8QQMNJDA6PSDMxBgH8KyHKOaDhbp4ZoucJcd5DCApBMHUSMdZwe1UfhxMxrstFo2G3WttVg/kAvLBz0PX8LYcMljj20gLpzqAjUDEAnuZERGVzJxF1wvKhZ0BQbiosKWaTJ3yduggdJrN+H14YcXevWyy61ChQSUOR65zme8RM9TWs5u/l2SyS2kNK49QgjvjMGfY/RTiczZBG0nLpodPfJb4m0MxGq5QLzpzIqttj5bQqg7AggjJkwC0AT1j20vPvEhsqVA/iBZjeBEzjpVFx/MUTiFvXrytdCa3VVhZAhFDhtTeljmDImrXw7cs8dwfFG7aVLqhyLpAJXCmAxEhTEEEntmcPXYZsuR7xoABx39+qwnFyMc5taflWnhjm9u4jMqkIpktcdS7sdtWYXJELsJGwxV0vOgQz6JRYypkHBJiMmIPSMHtXM/C/G3AWW4v8Jl1FSECnK+oFh6tI2EgyBFanh+dOoIWyBw5U6GPp8wYlpb4TE4Mbbml+LwLc5oXrz4flMoszyDdCtqWk5bxXmF2Cg6SQriNomIOROM9Yqx4HzTq8xcYgQARMyNzIGM4rB8h5iFuXLNp/UsDJwUO59M6iuRA6gd63V/nVtE1M3Q4GTjcwKW4qF0ZyNbd1XP2V0kjL3hzTtwG39prj+GbS3lubbfZZIkdxkEfgd6yPC8o4jiLr3H4t/NtuVUKEGgYOfTBxjb3iruzzq5fD6LegR6Gbq3T37YH4Vm+Rc70cTcN0gwuolIIYgAQDPWepwZmtGFjnax+UCx0BPkrPLGnxHXzWs4blN62SyurA5KlYDGCGjOMwfvHaKfieNQ+pX8pyQps3ARqIKiFB+2PTtIjp1pvl3izir7sP3UhGwsMAQAckkgEHr71Z8y5XwfEIty9ba3eXIPqSDj7SnTJIFS1ro31P9KP0QyVwFj7qFze2tq2fNdtUE6WbUFkE4E+5GPYbCs5zbmNy5aLoYChVKuIIMCTG5Hv71M59y+613hpYuhDDS2rXsPiwJgTn896vrXJNAvBm1KzKUB6AKAfvP5CtDZI4mtc42f3S4Sl5fXDW/P8LhvHrFxqFaHxly1UbUogz0gfr50deogla9gclEjC1xCz3Jn08RZPa4h/+QpUeXcgjKMQQeukxUIGrbnVsee5GzkXB8rih/u9X4V2dsuTVXsev4/fNMtUtl2x8/wqMwoBQQtz4Xe2gtndgpyOhOQp7Hcwe9TuZ8QUPmsV2gTOJ6iIOKtvA3C8M9j1oswsmBkxgnuc7mhzjwzZ4pjasX1Vllv5upkYbAnb/FebfiI/5Ls1itzSdNY8RDS1L8DBWRnuKFJAEAk95PsTPTtT3ifw35y6VyAMSZPykmZpPB8h4m3ZUW71suAI9JCkdOp6RkVYakW6ouXmtBljcQlwSckjYgY2zjqDWG3PxGeF49+au9rWssjzXNbXJ+J4Zna04Q2wWClodojUVXfYj5zFdB8Gc4s3bMAMbkEMpUmd9W+YnGcdKz/POZqxsebdXWt5itySB5QBMFR0uLAzj1jO82HD8XZti29pmLlnhNKkevWwGCCADJ6zB+VMMY0yxAPHi5j8rJh32XOB8KxV/gbUFDa8pmmNZByCw0TICHBAB7b1puW+FEfh2Fm6+pl0XACpEjcEZkgyN+3zqP4sa6Ut3nhLrDNkDaSSsgjMAk6vfvWk/ZvxH8IFwBrLGfrkn5kk/WjFzyxwB7Tre12pwxjdmA19VmuU3L3C67TQSqKRpJK6SWAgnODqP/b2FXvLuMsvwwBACgSf4uxBMjoVP9/nVzznlnDXQzXJVgpTzUYjAO8bNnoQe1ZbmvhhuHtaeHLXmkmWjCtOyzBIb1bfL3yCWLEau8LiR0HzW1mZmgFhVd7lX/1Fu/w1y5qdgSzKSMjqSIMjETn51ord/wAorcdnZgxVik6ok6SEAjIb7l3pm413iOGS/Ya7bu2dKlIOSgExHxYjf7h0nczs37aeZbW0ZCg6mVS0gjRuI32P4zFaHvDnNa8jl18r5KswLYz3Q1Kh8z8QW01W9VtlBnWwhQVMFREFskHV/uHxUjwhZFx2Hoa2CCXtk5ME6Ceo9RJHdROazPEcutNeJJW2ugDTcYHQxMaWbbQMkEEmB3mpPJOVX7breW6hRjkW32eCofTkGJzBP3VpdhWiFwYaJ4pHJiHCUOk3G4XXbfCrGAAIiI6dqoOfcf8Au6FbYSVB1aicCBtghjkekkdMEVD5h4mfhbUXgivmAX1GBsCYkt796r+E5bc4hEuXn/gP61VX9TTIVz1iYwf6Ujw+CewmSb4R9UyOK7wBkd27TyUDlV60b6K165KhSRgBZzowdowSAAcDvWm5uhuKzK7qYbTBIgx6cD/dBM9JrGc84XymUWWOsFvMlRGgGcMdiBqIAMb1ATndywzA3i5mIbUBudp+Lp6iOmKZuwxmIlj+RV2TCKo3GyNyoHiy2VBJJ1ekNvBIjMHrFCoPiHmbXY1LE9cdN/xoU8wzS2MB26wzSBzradFn6vb5L2eHudQGssfdDqXPT0OAP+B7VR1dci/iJe4fqy+Zb3/1LQYwPdrZuD56a0kWFlBoqGT+dRnqQn4Um8CRqPUnMbkRI/EGqNXQrd/s54mQUkSVYR7Dqe+dv8VC5ib/AA/EeZaDC4DgqpIOYjaCJMVmuVc1awwa38QM/wCI/W9dP5TzMu/qYOmlCdOFXVJbSJJkGBt9nalGKY6CV0lAtI2TXDSCWMMvUI+S+P7boycTqs3V3kHTvBjEoekN33NXV82OJskLdtvqBiGU+/0ioPE2OHug4R5mRgMBGZjp7f4pFrlz2bctZtLoGLiAalQKFJBYGGAG4gYFKDHA52ZlsPLcf1xXZ/fRjbN9FjPGnL7SGBIYEBMEhlAGJ9o2q48JFbXDm5bcsbZVS8ZUsVwqtOBO5iYHaKbPAXV8vinvNeutrSX0qwBJVZM+rEmek05ba2ys6K/D3LxIurp1W5CusgLJB1EnSc9e0uWOuMMBuuPX1WDEwHJnPh58vnzTl4WbhId2u3OIu4ctBQAEkEgzGiNPyIwKuOI4pOGvW+G06tNlF0oclrjAjBmAIBzPWub8Xy06PMFwQjkFFwRtkZGTsQBiKXy7n3l3QzSzagCzEv6MgBSTiAdjIwKh+C7zXMSOXX/izxYoBtMbRWz4jiOIuqdK6dTuh2Ju4nJgkKM+kwuNQmYF9d5ndKKTw7Fgsa4Ak5mMkxO09c4rM3fEHEX7j39KsFBWATpVeqJITtJYzJH0rYcj5mfIJZRK20OkAyZBMj+acCBnB+QX45pZVNBA06rXgnDUk+Ik6cAq/gmuXAECeWjFtYD+sdlUDYkZJxEk1Sc3sNZ4q3al1Rld9LsXggwCD3M5JJ67db/h7/mXHe3bdW0JtEMSDM4M9BPTHvVT4j8P8W96xdRDxBXVqXUFVZI9CkhS0ic5yOlc4CBJTiACDpfGuq2vluxR0I+yr/E3KmvWi4UeaFVSq+kaAPQd/UZLDptHY1R8p5xdTh0spag2WZmZnPqlpKgfZESIg5zvvreWWeML6l121AGlbyek91LAEptMz9KRzzhuHFq61xlTiFDXiqvhthAk+pW9Ix77bVugxOX/ABOp3lw8+iXY3C97b2ijxvY0qW7xK3vMe7YLM1oTAYi2NRZnA0mD8Mk5MTjrqP2fWCEKGG0iD2Mdj2nb51hbXHrZurca0yrctzb1tKrmdQxmVwMSJnfbZeGeKHD23dxpW2DqgfDnP5RVe0mOMORo5UjsxmVhc46+isvE/Ai03nIBnBBUEGem09NX0rE8whrLAXQzMwi2zyQAQS04BG33HtWp8Vc8V+Gt30Goa9YIIyqAhvoCQD8+sVzzj+Zhrb3AId5HTGpjJxjYffUdnwy923OKIK7zTREEN1J3IPRU/MGm4QuYxjb3ihUjkHAvdeEXU/2VmNRgkifZQx+goU+to0tLK6KmqRwfEtauJcQw6MrKexUyD99R6FdVzV/zqwquLlsRZvL5lsdBOHt/9HDL8gD1pu5xzPY8lhhXLoQNsQ437aT8x70rkz+ah4VoktrsExi7ABSei3AAv/JU96iLbbIyDMEbEH3+o29jVCBdro1xpQ4yO1auzxOq2sMg06YOoLmIJk5EyZjERjec09nHuNx+dNJdZfhJE1SSPOAukUvdldM5LwpckiQ1qBhsEkmZMidgMHYirHxvym9pFzh7jqmhvPHmMBgQTE+oHr8tq5twviC7bUhGIO2rUcjsRsRv7joa1HLvGl6/5dm9p8tiEfQCpJOBJmAJg++emColwmIZIJG0QPT3smDcWx9NJKvOH5xbSzbS/aZtKBEaNSEaYkOskCJJ6xPSrHlvgnzibgAVWMyxaCDB1adUzEgzFZnj+Dv8Kbdq0+q2hNwC4FjP2Y+3HqMdN8VqOWeKjctu1xiNLCUt+gKhMBhBl46gnr0rHM17BnhO511PPTTgtJkJGUjXrqqbxB4P4dLjhWKBUOqdmYQ2Jb0jEfWo54PgyvFC1aJdAykZEJpUFpgjec/LNW3OeO4rh7oZLAe2pBDhv9VCpJUCc9Tk/Z27sc34+0+jiUZrGpXVlZf4hcMpEjI+IMJ9t+2iJ0rorLr22PrWqXuDWzAHjeu30Wc4LjbDLw+m2qkMRcRZSC0qrnEOIOfkcAYrpfIODtIWRiLcsLiC2AohpjGzECAe2PmcLzzkRvobti0RdnIaAFtySABn1HqM9R7VuORcTauBXA0OFUXEA0wQDJA7biR0rL2jIHxgtPOxvX6WqCDuy4AV1Wj4fRsoVoxMbGcn571Xcy5tYtHRcup6sks3X5KMLj5Uxxt0XBctmyNKjUiAmLgyJIwu/QlgJmuW+KlvehG8oMFLFLYSIYkgYPrgCJicmawYPAiZ1Od6K8hyiza6zZ5paZPMLKwWYgg9PyPeq7j7Fvif4N6zKgg+pY0HYEGcf+a5fwPiR7Ns8PxCTbcCCMPbUjoCPUI2B22nt0jknM7NqzbXXcuMwn1kZGADmBo7ROBXWbASYU5m2TelIE0Zab4b2ue815Het2LyXXtk2CQFSWaGzLE4RYAiBmc0i7z+zctrBe3c9WoKoIhlIIBae5/AzW48QWTxvotzaR8XTqA1FNWkLB9SnXP0HvWW8W+HHU2zbso2vUHVREacqwMyDE564GacQ4qOXK2XR2/l/wBpLo43sDiwW0pnkgs3rd225lbWl1AtoswTIMICegz3rM+IuKF2+4VNCqzDSAMmYnGJx95PehwfNrnD3XkaplHDZkA9e8fjTnJ+XvxF0aBDM2I2WSJf2RZEe8CmMcRY8vJ0rT7qHva5ga0VrqKWq/Z1wPl3PNfCqpUHrqYnU/yBTy/voVf8u4MW3vWDIt21tIjGMgAsfqCwB+dCsU0mZ1rvGyhS4rQoUKcpYjBrS+YOJU35/joJvL/6gEfxvY9H+jdWjNVJ4LimtOty2xVlMgj9ZHQg4INB1Ugp5pU6kOxwR+FIuWWBKwQcHSRnbH4ffNWbWheVrthYIE3bS/Z7ug3NvqRnT8s0jhuKISDJgehxuvsRsyGMqR371QkhX3UTh0tsp1sUcERC6gyk+qciCoyO+1aDwZySxxLXbTuQSqFJOkMZM/TIis8bepvUQs7EDHToNsZxVlY4rUFtqqpeUkJdXSqMo1SGmN9vecid+U7XOYQ0115KzMv+y6Fc5Gljy1a9du3VkL65W2pIwQYLlVJ36NiPTVXc5PovOLLlrREMw1FT1U6hgOGEkSNh3gQrfPLoP8dH1GVW8saipgCQcEawMnMY3AqeniW45BvlHRtOuUb+GGiGLg4QnAJGZjoDS3u5GtFmzx9VQyuMvGjoNeW2qRwnGPcReFa6pBZipB0uhtkgNqPpAB2BPUTvmq4Ak8fYsufXbchsDRJDMWGBuYI6DpirjgeJdBduWxabU7aC0H1FSYLAyDgelgAZImYql43l19bly7egOQ0hSuIJZhEjIgEQegqzMoDmihYPzK793N3gkfsNeC6tb4dYbK/T2wagnl6W2N200XD11Rjt+u9YXw9zgaVtXyNEBlJCiQZ+Jj6RAIzIJimfEt9rV4eRrQFFOgnUMEjDAkTEHHQilLezZA8tzfTQpk7EMrU7/NdSDK6eoqGIHwmYODv2nNZvxr4ftXzbc6gw9IZZJgtIAHUycAdTWS5Pz+7a+KwGtsQGGsqJJEGThc9TjvWi4nnKMqLxPC3ArE+XLjVK9ZBkCWUCepHeKiPBTYeUOYdOlflD5ogzKT87WX5/y1rF23aVbt0n0J5qw5y3w5kDIH0G1L53wF0fu9pvLZ5dVt2y+BAKlvUBbIkddn7YrpHLyPKt3GuNd1gFGfeHCwoyOkDvjeof/wDnMl48SxwWyg0gsYCj1GAQB0P099X/AKIDq5XvuSuTMM5wt/HTTbdL4NeHVCbVpAsYeTOoAiDJ3XI+lU/PuZXLNtXulJkJOkgAEiW0yS2BMD5YGaa/aDxyC35aMRcaGhW3H+7pp6RuZrC8TzK7fC+c4K2lgdFUf1J+8/lOEwZlqR23Xf5rpNOIxkA4KDxvCTcaCXBb4ohmkxq09Cx2Hv7Gumcn8OXLNpSsB7oVmIj+GLRDra9wcAnuWPas34L4NLruzt5YAhZy4DBla5pA3OACJCj5ydxwvMi720LLDCNIYFhoBLlhOAfSo7yaZYpz2gNrTmsUIaTmVfxV1TYW7dPlhtRuasFdTAx8w2haFZz9pHGaillWBhmZ87HpI6bmP8UKiHCCRmYg6qZJ8rqAXOaFChTNYEKFChQhSeD4lrbq6MVZTIKmCPlV64t8QZBSzeIncLZu+4P/AOJz2+E/7azVS+GfV6D9P7VDlYK2v8re3OsRGCexMwCDkYBzFRWVlIYSGUgg9iDIPuAaes82dQLd1RcQCE1fEg7I24Htt7VMK23BNm4DEkpchXG22dL/AEjA2rlrasdlE4fmt62+oOzCZYGDOcgEg6Z+X5Ve8z8VDiWRCltf4KW21mFYqQ5BJgDM6d4JFQ+NdCfTwwtMogwWgxu2k4BJzgR/Wk4q17D6RVQGu3FLkWNtarwhzBrNzTrUWLo830FmKaSDoYgSsGAZgdetaTitHFkMSHsrbZ1ZZBDnSFLdiBqnrjvXNeWi4twNbJDyAukkGTiPkdo2NXXC8RxnAu7smhmbOu3gnJwRCmJO35YrHiMMO87xhGatAePvmt8Mtx5Hg5eY9FJbhkt37HnvotsDkrq2mAV6T/atPb4C3cSOFGvSApyEMKoAPwxcmBsBAYZ6Vz7n3O7vEqi3dPo6rie07gQMYA99qd8N89u8MrqkDVkE5KmAJHTaPwro7DZmDXVY5HyE2DSteH5m1nzLNxrY0Mxe1pBdgBkaiApjeN8GMgCpvC8Bea1aVn82ysXVVg0i0dJYSC0gr6dAkH5jGL5reN289wxLmT2+ntSFvPMljtGSdu3y9qscPQ8Jq99FoEwcBnF8l17ied8LoUuyELEImksFmYCj4RIG5iO9Zzmniy9cdzb0ogHpLESqicgTGskzAkEgQKynC2GUAkaU/mOBn55PbANXnBck1sDcJAOQxEkxGyESSSYl/wCVvTWNuBii1dt1+wWp2JfJt9FVWLVy6x+IyC2xZmA3/wCK9NRgDEmr7g/BbXNPmXhbhS+k2iUUDqSWU3D7xGO0Ctdy/lDWPMuWzbUDSQGZmcziXJ+1J0gSRAx2q25pwwuqLg1XNIVQi48xvMXU3yABxsQO1dHYkj4NPuqCIH4tVzvmfgPitSBblly4YgHUhULmSMwMjY71Try3j1QGLrI49MOHBEfykztJ22rrh4sq1w3YAT4gDOlAJ0zsWJDTH8o+dc38a+JnZmsWTpRVh2G8GJE/ZBwD8wO9dYMTLI7KK6rnLExosrGXbxciNRoqkcv482g5QRcYAK38omWx1JwPvoU0WFVFChQqilChQoUIQowaKjoQrG1eDiCBq9zAP4b02tsg+oww2J2++oU1ZW7utdKnTjIOR9J2FUIrZXBtP2uZ3Pgw4GIaGj3U9Kl/vHDn47dwMcyjAgf9SJFU0lcFQfnP9KXZYb4P1hh9etQQpVwvkAkpf2mFdWDewmImpnFO1xdLcXbZdwrXgQD7A7HpI71m9YJJOmOxwfnIETQtoempR33/AF91UMbSbKsHnZT7vLRj+NYz3uDGKO3wttZ1X7f/AFlvyqtA3ErPciPzozdHwhUHScmr1wVNFKe9Yn7bdgBE/fPWnrXEOM2ra2hj1H1EHH2mwJPy3qAlwzg6Y6Bas+VwzDzCrDoGlifkv9qhxyhWaLNK15Ny5roJ9Ny5K5ckD4gSZO42z2mt7yTlqsSOJtZtjDBskGGgaTmckTtO2az3JrIW9Itm2IB9bzj+bRMKT0GIHzrRC61u8GS2xBMB7jzqLep2Cz8KiBsNt80qnkzOW+NtBXHKFS2Cty2qjWG8snUdZhwD3K4jf4Z6YRaS5bu2/WzYfUQIRdRkb5LQCP8AsNqqeaMgdWQhSSzvglmLf7ydv9qjv7VmfEfjFrZ8tRLCMGQIxv7fLeuLY3vNN1Vi5rRZVj438Yi2SlkKXYmZyABMEj7RLS0e+a5ZfuliWYkliSSTkkmST9c09x3Gvecu8SegACgDYADCqO39aiineHgETa4ndLZZS89OCcC0KVbFCtK5KKtsnYE77e29N0oHtRVRSioUdFUIQoUKMUIRUYNCiqUKUOJJENJ7H9b0rytQlSP1+ulRKUjkbGKqW8lYFSGuECJ/I/5pSkASBB9mikrxh+0A34H8KV+8I3xKR8iP7T+NVo8lNhGuBgt8oz+VO8MjEekknsFz95FFw7WZ9RYD2FXtni+EsmPixvAf8zAPzrm9xGwJV2tB3Kicp5KzmCrfU4+WJmtByfkF1b6qqCIl2CkBP5VBYCT9KXY8Y8PZSbFtQZ+H1B47/Bp+mr6U7Y/aCjCHt3VMmBbAMj3YsDP6zWR5xD7pui0N7pvFam34cVWNwhFA9TNLMxb3JMD5Qf7Rub8+4fh8s6ayPSMmB0kiSR8uv4Y7mHjq+8BEtoowNYD/ACOmNAP067mszxvEPdcvcYsx3JjpsANgOwFRHgHvNyGgh+KaBTFbc48UXHlbbYz6xMmcmJgqOmwxtFUmhSuprhLE7QSRBiSSR02GabK0YSmUcTYxTQsb3ucbKRpHT8aNVpaijauiogtCiPvQoQoVCjApRAgGc5x2qqlIoUKMUIRgVJ4KypY62AUAmfyqOfwowlShG8SQNppqKXpoaaEJKrNFThSjCVFITUUpEkwKd0UpFqaQjHDGdJBBxiJJJ2A7zSzw0GOo3qQeGcLbcoQrzpfYHSYaDPQ4oIkT/TP6FSoTaWqcVNp3pZeiFSoRFaTNHOZmidSDBx+vaf70ISScZO2wpLDPf3o39tu9K80aQukYYnUNzIGPkIx8zQpSNO/SKStwidiDjIB/yD7il2boAYHMrAzGZBE9xg496ZmoQjY5/L9daFIJoUIUahQo6qpQoUsAQZmemMH+1IFCEoUoCiBow1ShKVaVGaR5h70YoQnsdo/KlADqP70yHper3/zUqE8bYGxB/wDPX3pJFIS5Si1CE6FPt949um/ajmJnFNFh86dvCIA0mFElWmZONzuJggdvrQhHdUqSGEEGCPcUgNSbjEkkmSSSe+abmpQllqE/5/vTWqjRsg/WoQjKyYWTmBAye2KcW00FiCADBJGzZxnrg4rYeG/AV6+nmOwtW2AIYD17yBB+Hv8AQU9znhuX2ZBuNcKMQUXJZyDJJO43OcUIWNscM4a2YwzKFJ2zgT2BH9Y2NFxBCoUNqLgf48wVAIIzvJ6+1Tuc8+85bVtLYS3aVVQ73PT1LdJOYHaqV29RO++9CEA1CkzQoQmqKhQqqlCjWhQoQjNAUKFShCl0KFCEBSxQoUKEQozQoUIRrSqFChCI0KFChCHT7v60hP6j86FCpQu2eNePucNwKeQ2j/TGwOIAjINcYGSZzvQoUISDuPpSH3PzNChQhG9ChQqFK//Z",
+    "ingredients": [
+      "Potatoes",
+      "Cauliflower",
+      "Onion",
+      "Spices (Cumin, Coriander, Turmeric, Garam Masala)",
+      "Tomatoes"
+    ],
+    "method": "1. Saute onions and spices in oil. \n2. Add potatoes and cauliflower. \n3. Cook until tender. \n4. Add tomatoes, cook for a few more minutes. \n5. Serve with rice or naan.",
+    "rating": 4.1
+  },
+  {
+    "id": 13,
+    "name": "Chicken Tikka",
+    "picture": "https://img.freepik.com/premium-photo/grilled-kebab-with-ketchup-spices-wooden-background_176402-4230.jpg?size=626&ext=jpg&ga=GA1.1.825737080.1674060681&semt=ais",
+    "ingredients": [
+      "Chicken (boneless)",
+      "Yogurt",
+      "Spices (Cumin, Coriander, Turmeric, Garam Masala)",
+      "Lemon juice",
+      "Garlic"
+    ],
+    "method": "1. Marinate chicken in yogurt, spices, lemon juice, and garlic for 2 hours. \n2. Skewer chicken and grill until cooked. \n3. Serve with chutney or raita.",
+    "rating": 4.7
+  },
+  {
+    "id": 14,
+    "name": "Mutter Paneer",
+    "picture": "data:image/jpeg;base64,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",
+    "ingredients": [
+      "Paneer",
+      "Peas",
+      "Onion",
+      "Tomatoes",
+      "Spices (Cumin, Coriander, Turmeric, Garam Masala)"
+    ],
+    "method": "1. Saute onion and spices in oil. \n2. Add chopped tomatoes and cook until soft. \n3. Add paneer and peas to the pan, mix well. \n4. Cook for a few more minutes. \n5. Serve with rice or naan.",
+    "rating": 4.3
+  },
+  {
+    "id": 15,
+    "name": "Butter Chicken",
+    "picture": "https://img.freepik.com/free-photo/chicken-red-curry-black-cup_1150-23925.jpg?size=626&ext=jpg&ga=GA1.1.825737080.1674060681&semt=ais",
+    "ingredients": [
+      "Chicken breast",
+      "Tomatoes",
+      "Butter",
+      "Cream",
+      "Spices (Cumin, Coriander, Turmeric, Paprika, Garam Masala)"
+    ],
+    "method": "1. Marinate chicken in yogurt and spices for at least 2 hours. \n2. Grill or broil chicken until cooked. \n3. Saute onion and spices in a pan. \n4. Add chopped tomatoes and cook until soft. \n5. Puree tomato mixture and strain through a sieve. \n6. Add strained tomato sauce back to the pan, add butter and cream, and cook until well combined. \n7. Add cooked chicken to the sauce and simmer for a few minutes. \n8. Serve with rice or naan.",
+    "rating": 4.8
+  },
+  {
+    "id": 16,
+    "name": "Pav Bhaji",
+    "picture": "https://img.freepik.com/premium-photo/mumbai-style-pav-bhaji-is-fast-food-dish-from-india-consists-thick-vegetable-curry-served-with-soft-bread-roll-served-plate_466689-2238.jpg?size=626&ext=jpg&ga=GA1.1.825737080.1674060681&semt=ais",
+    "ingredients": [
+      "Mixed vegetables (potatoes, peas, carrots, cauliflower, bell peppers)",
+      "Onion",
+      "Tomatoes",
+      "Pav buns",
+      "Spices (Cumin, Coriander, Turmeric, Garam Masala)"
+    ],
+    "method": "1. Boil vegetables until tender and mash them with a potato masher. \n2. Saute onion and spices in oil. \n3. Add chopped tomatoes and cook until soft. \n4. Add mashed vegetables to the pan and mix well. \n5. Cook for a few more minutes.",
+    "rating": 4.8
+  },
+  {
+    "id": 17,
+    "name": "Tandoori Chicken",
+    "picture": "https://img.freepik.com/free-photo/delicious-chicken-table_144627-8758.jpg?size=626&ext=jpg&ga=GA1.2.825737080.1674060681&semt=ais",
+    "ingredients": [
+      "Chicken drumsticks",
+      "Yogurt",
+      "Lemon",
+      "Ginger",
+      "Garlic",
+      "Spices (Cumin, Coriander, Turmeric, Paprika, Garam Masala)"
+    ],
+    "method": "1. Mix yogurt, lemon, ginger, garlic, and spices to make the marinade. \n2. Score chicken drumsticks and marinate them in the mixture for at least 2 hours. \n3. Preheat oven to 400 degrees Fahrenheit. \n4. Place chicken on a baking sheet and bake for 20-30 minutes or until cooked. \n5. Serve with rice or naan.",
+    "rating": 4.9
+  },
+  {
+    "id": 18,
+    "name": "Rasgulla",
+    "picture": "https://img.freepik.com/premium-photo/rasgulla-sweet-food_57665-4910.jpg?size=626&ext=jpg&ga=GA1.1.825737080.1674060681&semt=sph",
+    "ingredients": ["Milk", "Lemon juice", "Sugar", "Water", "Cardamom powder"],
+    "method": "1. Heat milk and add lemon juice to curdle it. \n2. Strain curdled milk in a cheesecloth and squeeze out excess water. \n3. Knead the curdled milk until smooth and make small balls. \n4. Boil sugar and water in a pan and add cardamom powder. \n5. Add the balls of curd",
+    "rating": 4.3
+  },
+  {
+    "id": 19,
+    "name": "Chole Bhature",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoTEGu3lc-ijxZV1ii1GE88SVo-lLD8dTm6w&usqp=CAU",
+    "ingredients": [
+      "Chickpeas",
+      "Onion",
+      "Tomatoes",
+      "Ginger",
+      "Garlic",
+      "Spices (Cumin, Coriander, Turmeric, Garam Masala)",
+      "Flour",
+      "Yogurt",
+      "Oil"
+    ],
+    "method": "1. Soak chickpeas overnight and boil until soft. \n2. Saute onion, ginger, and garlic in oil. \n3. Add chopped tomatoes and cook until soft. \n4. Add boiled chickpeas and spices to the pan and cook for 10 minutes. \n5. Make a dough with flour, yogurt, and water. \n6. Roll out dough into circles and fry in hot oil. \n7. Serve hot with chole and garnish with onion and green chilies.",
+    "rating": 4.8
+  },
+  {
+    "id": 20,
+    "name": "Beetroot Uttapam",
+    "picture": "https://img.freepik.com/premium-photo/homemade-beet-chickpea-hummus-with-vegetable-crudita-c-s-unleavened-bread-dark-background_58460-9118.jpg?w=360",
+    "ingredients": [
+      "2 Cups idli/ dosa batter",
+      "2 small Beetroots",
+      "1 Onion, finely chopped",
+      "1 small Tomato , finely chopped",
+      "1/2 Capsicum, finely chopped",
+      "3 Green Chillies, finely chopped",
+      "Oil for cooking",
+      "Coriander leaves for garnish",
+      "Salt to taste"
+    ],
+    "method": "1. Soak chickpeas overnight and boil until soft. \n2. Saute onion, ginger, and garlic in oil. \n3. Add chopped tomatoes and cook until soft. \n4. Add boiled chickpeas and spices to the pan and cook for 10 minutes. \n5. Make a dough with flour, yogurt, and water. \n6. Roll out dough into circles and fry in hot oil. \n7. Serve hot with chole and garnish with onion and green chilies.",
+    "rating": 4.3
+  },
+  {
+    "id": 21,
+    "name": "Chana Masala",
+    "picture": "https://img.freepik.com/free-photo/bowl-food-with-spoon-table-glass-orange-juice_1340-34219.jpg?size=626&ext=jpg&ga=GA1.1.825737080.1674060681&semt=ais",
+    "ingredients": [
+      "Chickpeas",
+      "Onion",
+      "Tomatoes",
+      "Ginger",
+      "Garlic",
+      "Spices (Cumin, Coriander, Turmeric, Garam Masala)",
+      "Oil",
+      "Cilantro"
+    ],
+    "method": "1. Soak chickpeas overnight and cook until tender. \n2. Heat oil in a pan and add cumin seeds. \n3. Add chopped onion, ginger, and garlic and saute until golden brown. \n4. Add chopped tomatoes and cook until soft. \n5. Add cooked chickpeas and spices to the pan and mix well. \n6. Cover and cook on low heat for 10-15 minutes. \n7. Garnish with chopped cilantro and serve hot with rice or naan.",
+    "rating": 4.7
+  }
+]
